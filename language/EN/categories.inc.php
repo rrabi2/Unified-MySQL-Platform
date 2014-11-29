@@ -1,0 +1,15 @@
+<?php
+$category_names = array(
+10 => '40s, 50s &amp; 60s',
+69 => 'Applications',
+175 => ‘IOS’,
+76 => ‘Windows’,
+1 => 'All',
+4 => ‘Android’,
+5 => ‘OpenSource’,
+30 => ‘Blackberry’,
+77 => ‘Free’,
+78 => ‘Paid’,
+114 => '',
+79 => '',
+171 => '',
